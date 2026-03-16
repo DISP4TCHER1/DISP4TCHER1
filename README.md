@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:58a6ff&height=160&section=header&text=Nikita%20Terentev&fontSize=44&fontColor=fff&fontAlignY=40&desc=AI%20Developer%20%26%20Solutions%20Architect&descAlignY=62&descSize=16&descColor=cdd9e5" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:58a6ff&height=160&section=header&text=Nikita%20Terentev&fontSize=44&fontColor=fff&fontAlignY=40&desc=AI%20Developer%20%7C%20Solutions%20Architect&descAlignY=62&descSize=16&descColor=cdd9e5" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=AI+Dev+%26+Solutions+Architect;RAG+%7C+LLM+Agents+%7C+Microservices;MVP+to+Production+%E2%80%94+fast+%26+pragmatic;Tech+must+fit+the+problem." alt="Typing SVG" />
 
