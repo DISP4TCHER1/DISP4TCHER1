@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:58a6ff&height=180&section=header&text=Nikita%20Terentev&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%26%20Solutions%20Architect&descAlignY=58&descSize=17&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:58a6ff&height=160&section=header&text=Nikita%20Terentev&fontSize=44&fontColor=fff&fontAlignY=40&desc=AI%20Developer%20%26%20Solutions%20Architect&descAlignY=62&descSize=16&descColor=cdd9e5" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=560&lines=AI+Dev+%26+Solutions+Architect;RAG+%7C+LLM+Agents+%7C+Microservices;MVP+%E2%86%92+Production+%E2%80%94+fast+%26+pragmatic;Tech+must+fit+the+problem.+Period." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=AI+Dev+%26+Solutions+Architect;RAG+%7C+LLM+Agents+%7C+Microservices;MVP+to+Production+%E2%80%94+fast+%26+pragmatic;Tech+must+fit+the+problem." alt="Typing SVG" />
 
 <br/>
 
@@ -123,6 +123,6 @@ const nikita = {
 
 *"Deliver anything from sites to SaaS — fast, flexible, pragmatic."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1a1a2e&height=100&section=footer"/>
 
 </div>
