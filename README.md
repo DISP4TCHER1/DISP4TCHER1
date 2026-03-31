@@ -112,7 +112,7 @@ const nikita = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/dispaketr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dispaketr@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DISP4TCHER1)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/onthehotline)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DISP4TCHER1)
 
 </div>
